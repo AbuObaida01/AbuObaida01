@@ -1,233 +1,245 @@
-# Hi there 👋 I'm Abu
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saad%20Madni&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</div>
 
-### Backend Developer | Python | FastAPI | PostgreSQL | Docker | AWS
-
----
-
-## 👨‍💻 About Me
-
-🎓 Final Year B.Tech in Computer Science & Engineering.
-
-I build backend applications and production-oriented software systems using modern Python technologies. My current focus is **backend development, REST APIs, databases, system design, cloud deployment, and DevOps**.
-
-I am also actively improving my **Data Structures & Algorithms** and software engineering fundamentals to prepare for backend/software engineering roles.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Backend+Engineer+%7C+B.Tech+(Computer+Science);Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Production-Oriented+Software+Systems" />
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Engineering Stack & Expertise
 
-### 🐍 Programming
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,nodejs,postgresql,mysql,docker,aws,kubernetes,git,github,linux,vscode&perline=9" />
+</div>
 
-* Python
-* JavaScript
-* SQL
+### 🧠 Core Engineering Skills
 
-### ⚡ Backend
-
-* FastAPI
-* REST APIs
-* SQLAlchemy
-* JWT Authentication
-* Pydantic
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-* Database Design
-* SQL
-
-### 🌐 Frontend
-
-* React
-* HTML
-* CSS
-* JavaScript
-
-### ☁️ DevOps & Cloud
-
-* Docker
-* Git
-* GitHub
-* Linux
-* AWS
-* Kubernetes
-* CI/CD
-
-### 🧪 Testing & Development
-
-* Pytest
-* Postman
-* VS Code
-* Alembic
+* **Backend Engineering**: FastAPI, REST APIs, authentication, authorization, service-layer architecture
+* **Database Engineering**: PostgreSQL, SQLAlchemy, schema design, relationships, migrations, SQL optimization
+* **System Design**: API design, modular architecture, database design, scalability fundamentals, engineering trade-offs
+* **Data Processing**: Excel ingestion, validation, field mapping, bulk data processing and automation
+* **Testing**: Pytest, unit testing, integration testing, API testing and test-driven debugging
+* **DevOps & Cloud**: Docker, Linux, AWS fundamentals, CI/CD and containerized deployments
+* **AI Integration**: AI-assisted backend features, controlled AI tools, automation and intelligent workflows
+* **Problem Solving**: Data Structures & Algorithms, complexity analysis and interview-oriented problem solving
 
 ---
 
-## 🌱 What I'm Building
+## 📊 GitHub Analytics
 
-* Production-oriented Backend Applications
-* REST APIs with FastAPI
-* PostgreSQL-based applications
-* Dockerized applications
-* Cloud-deployed backend systems
-* Data processing and automation systems
-* AI-assisted applications
-* Scalable and maintainable software architectures
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadmadni84&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Saadmadni84&theme=dark&background=0d1117&border=36BCF7&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9&hide_border=true" />
+</div>
 
 ---
 
-## 🤝 Team Contributions
+## 🏗️ Engineering & Team Contributions
 
-### 🎯 CoE Academic Operations Management System
+I contribute to a **production-oriented academic operations platform** being developed by a collaborative engineering team.
 
-Currently contributing to the **CoE Academic Operations Management System**, a production-oriented academic operations platform developed by a collaborative engineering team.
+### 🎓 CoE Academic Operations Management System
 
-The system is designed to manage and automate academic workflows involving students, subjects, departments, academic data, analytics, scheduling, and other institutional operations.
+A large-scale academic operations platform designed to digitize and automate institutional workflows involving students, subjects, departments, academic data, analytics, scheduling, optimization and AI-assisted operations.
 
-**My Contributions**
+### 🛠️ Contribution Areas
 
-* Backend development with FastAPI
-* Designing and implementing REST APIs
-* PostgreSQL database integration
-* SQLAlchemy models and services
-* Excel-based data ingestion and validation
-* Authentication and authorization
-* Automated API and integration testing
-* Backend architecture and service development
-* Git/GitHub collaborative development
-* Docker and deployment-related work
-* Reviewing and integrating team contributions
+* Backend API development using **FastAPI**
+* PostgreSQL database design and integration
+* SQLAlchemy models and service-layer architecture
+* Excel-based bulk data ingestion and validation
+* Authentication and authorization workflows
+* Unit and integration testing with Pytest
+* API design and business logic implementation
+* Analytics and academic data processing
+* Scheduling and optimization modules
+* AI-assisted functionality
+* Dockerized development environment
+* Git/GitHub team workflows and pull requests
 
-**Architecture Focus**
+### 🏛️ Architecture
 
 ```text
-Users
-  ↓
-React Frontend
-  ↓
-FastAPI REST APIs
-  ↓
-Service Layer
-  ↓
-SQLAlchemy / Business Logic
-  ↓
-PostgreSQL
-  ↓
-Analytics / Scheduling / AI Modules
+                         React Frontend
+                               │
+                               ▼
+                         FastAPI APIs
+                               │
+                               ▼
+                         Service Layer
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+         PostgreSQL       Data Processing     AI Modules
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                    Analytics & Scheduling
 ```
 
-**Key Technologies**
+📌 **Project Repository:**
+https://github.com/coe-management-system/coe-management-system
 
-* Python
-* FastAPI
-* PostgreSQL
-* SQLAlchemy
-* Pydantic
-* Docker
-* Pytest
-* Git & GitHub
-* React
-* AWS
-* CI/CD
-
-**Project Repository**
-
-[CoE Management System](https://github.com/coe-management-system/coe-management-system)
-
-> Building a production-oriented academic platform with a focus on maintainable architecture, data reliability, automated testing, and scalable backend services.
+> Building a production-oriented system with emphasis on maintainable architecture, reliable data processing, automated testing and scalable backend services.
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured Project
 
-### Backend Engineering
+<div align="center">
 
-* Advanced FastAPI
-* API Architecture
-* Authentication & Authorization
-* Database Optimization
-* System Design
-* Testing & Code Quality
+### 🎓 CoE Academic Operations Management System
 
-### DevOps & Cloud
+[![CoE Management System](https://github-readme-stats.vercel.app/api/pin/?username=coe-management-system\&repo=coe-management-system\&border_color=36BCF7\&bg_color=0D1117\&title_color=36BCF7\&text_color=c9d1d9\&icon_color=36BCF7)](https://github.com/coe-management-system/coe-management-system)
 
-* Docker
-* Linux
-* AWS
-* Kubernetes
-* CI/CD
-* Cloud Deployment
+A production-oriented academic management platform focused on automating institutional workflows through modular backend services, structured data processing, analytics, scheduling and AI-assisted capabilities.
 
-### Problem Solving
+**Core Technologies**
 
-* Data Structures & Algorithms
-* Complexity Analysis
-* Problem Solving
-* Competitive Programming Fundamentals
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pytest` `Docker` `React` `Git` `GitHub`
+
+</div>
 
 ---
 
-## 🧠 Development Approach
+## 🧪 Engineering Workflow
+
+I focus on building software through a complete engineering lifecycle rather than stopping at implementation.
+
+```text
+Requirement
+     ↓
+Architecture
+     ↓
+Database Design
+     ↓
+API Design
+     ↓
+Implementation
+     ↓
+Validation
+     ↓
+Automated Testing
+     ↓
+Docker
+     ↓
+CI/CD
+     ↓
+Deployment
+```
+
+The goal is to build systems that are **understandable, testable, maintainable and deployable**.
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+I'm actively strengthening my DSA and problem-solving skills for software engineering interviews and real-world engineering challenges.
+
+### Current Areas
+
+* Arrays & Strings
+* Hashing
+* Linked Lists
+* Stack & Queue
+* Binary Search
+* Recursion & Backtracking
+* Trees
+* Heaps
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* Sorting & Searching
+* Time & Space Complexity
 
 ```text
 Problem
    ↓
-Requirements
+Understand
    ↓
-System Design
+Brute Force
    ↓
-Database Design
+Optimize
+   ↓
+Complexity Analysis
    ↓
 Implementation
    ↓
 Testing
-   ↓
-Docker
-   ↓
-CI/CD
-   ↓
-Deployment
-   ↓
-Monitoring & Improvement
 ```
 
-I focus on understanding **why a technology is used**, not just learning how to use it.
+---
+
+## 🎯 Current Engineering Focus
+
+🔭 Building **production-oriented backend systems** using Python, FastAPI and PostgreSQL
+
+🏗️ Improving knowledge of **system design, API architecture and database design**
+
+🐳 Deepening expertise in **Docker, Linux and containerized applications**
+
+☁️ Learning **AWS and cloud deployment**
+
+☸️ Exploring **Kubernetes and CI/CD workflows**
+
+🧪 Improving **automated testing, debugging and software quality**
+
+🧠 Strengthening **DSA and problem-solving skills**
+
+🤖 Exploring **AI-assisted backend systems and intelligent automation**
+
+🤝 Working collaboratively through **Git, GitHub, branches and pull requests**
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Engineering Principles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=github_dark\&hide_border=true)
+```text
+Build it.
+    ↓
+Understand it.
+    ↓
+Test it.
+    ↓
+Improve it.
+    ↓
+Deploy it.
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark\&hide_border=true)
+I believe good software is not just about making features work.
 
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=github-dark\&hide_border=true)
-
----
-
-## 🎯 Current Goals
-
-* Strengthen Data Structures & Algorithms
-* Become strong in backend engineering
-* Build production-quality applications
-* Improve database and system design skills
-* Learn AWS and Kubernetes properly
-* Build reliable CI/CD pipelines
-* Deploy and maintain real-world applications
-* Prepare for software engineering opportunities
+It is about understanding **architecture, data, failure cases, testing, maintainability and deployment**.
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-* GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* LinkedIn: [YOUR_LINKEDIN_PROFILE](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-* Email: **YOUR_EMAIL**
+<div align="center">
+
+  <a href="https://github.com/Saadmadni84" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saadmadni84&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Saadmadni84?label=Followers&style=for-the-badge&color=36BCF7" />
+</div>
 
 ---
 
-> *Building backend systems, solving problems, and learning how software works at scale.*
+> **I don't just want to build applications that work — I want to understand how to build systems that are maintainable, testable and capable of scaling.**
